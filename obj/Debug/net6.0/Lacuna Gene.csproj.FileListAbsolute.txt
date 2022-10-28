@@ -1,0 +1,5 @@
+C:\Users\danie\source\repos\Lacuna Gene\Lacuna Gene\obj\Debug\net6.0\Lacuna Gene.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Lacuna Gene\Lacuna Gene\obj\Debug\net6.0\Lacuna Gene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Lacuna Gene\Lacuna Gene\obj\Debug\net6.0\Lacuna Gene.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lacuna Gene\Lacuna Gene\obj\Debug\net6.0\Lacuna Gene.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lacuna Gene\Lacuna Gene\obj\Debug\net6.0\Lacuna Gene.csproj.CoreCompileInputs.cache

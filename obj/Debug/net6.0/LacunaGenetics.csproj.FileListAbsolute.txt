@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\bin\Debug\net6.0\LacunaGenetics.exe
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\bin\Debug\net6.0\LacunaGenetics.deps.json
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\bin\Debug\net6.0\LacunaGenetics.runtimeconfig.json
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\bin\Debug\net6.0\LacunaGenetics.dll
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\bin\Debug\net6.0\ref\LacunaGenetics.dll
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\bin\Debug\net6.0\LacunaGenetics.pdb
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.dll
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\ref\LacunaGenetics.dll
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.pdb
+C:\Users\danie\source\repos\Lacuna Genetics\Lacuna Genetics\obj\Debug\net6.0\LacunaGenetics.genruntimeconfig.cache
